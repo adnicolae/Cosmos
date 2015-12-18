@@ -1,0 +1,5 @@
+body { background: url(res/gogh2.jpg);}
+
+h1.index {color: white; margin-right: auto;
+	margin-left: auto; font-family:serif; background:#333333 }
+h1.index a{text-decoration:none; color: white;}

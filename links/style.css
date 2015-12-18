@@ -1,0 +1,201 @@
+body { background: url(res/bg.jpg);font-family: Arial, Helvetica, sans-serif;font-size: 13px;color: #333333;}
+body.menu {background: url(res/); background-color: black; }
+
+
+.item { border-radius: 25px; }
+
+h1.index {color: white; margin-right: auto;
+	margin-left: auto; font-family:serif;}
+h1.index a{text-decoration:none; color: white;}
+
+li {float:right;}
+
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { margin:0;padding:0; }
+.img-caption-box {padding:10px; background: #fff; margin-bottom: 10px; font-size:90%; color:#777;margin-left:auto; margin-right: auto; }
+.img-caption-box img { display:block; margin:0 auto; padding-bottom:10px; width:450px; }
+.img-caption-box h5 { margin-bottom:10px; }
+
+blockquote,.call-out-box {margin-left:auto; margin-right:auto; padding: 20px;  background: #99D6EB; width:600px; }
+blockquote, ul, ol { margin-bottom:15px; }
+blockquote.item-left {float:right;}
+
+p { line-height: 16px; margin-bottom: 15px; }
+p.subhead{font-size: 18px;color: #a72f2e;margin-bottom: 15px;font-weight: normal;font-family:"Questrial",Arial, sans-serif;}
+p.video-more{float: right;margin-top: 10px;margin-bottom: 0px;}
+p.pr_release{float: right;text-align: right;width: 200px;}
+
+h1{
+font-size: 26px;
+color: #a72f2e;	
+margin-bottom: 10px;
+margin-top: 15px;
+padding-left: 10px;
+font-weight: normal;
+font-family:serif;
+}
+
+h1.page-title {color: white; font-family: serif;}
+
+h5{
+font-size: 16px;
+color: #0f5e7e;
+margin-bottom: 15px;
+font-weight: normal;
+font-family:Arial, sans-serif;
+}
+
+#content-top{
+overflow: hidden;
+height: 100px;
+position:relative;
+
+}
+#content-top .title img{
+overflow: hidden;
+vertical-align: bottom;	
+padding-right: 10px;
+}
+
+#content-top .title{
+overflow: hidden;
+font-size: 39px;
+color: white;	
+font-weight: normal;
+font-family:serif;
+position: absolute;
+bottom: 30px;
+left: 30px;	
+}
+
+#foot {
+	width: 70%;
+	background-color: black;
+	margin-right: auto;
+	margin-left: auto;
+	height: 80px;
+
+	margin-bottom: 10px;
+
+}
+
+header .alexandria {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background: url(res/alexandria1.jpg);
+}
+
+header .milky {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background: url(res/massive.jpg);
+}
+
+header .europa {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background: url(res/europa1.jpg);
+}
+
+header .red {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background: url(res/red1.jpg);
+}
+
+header .heike {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background: url(res/heike1.jpg);
+}
+
+header .utopia {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background: url(res/utopia1.jpg);
+}
+
+header .home {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background: url(res/home1.jpg);
+	background-repeat: no-repeat;
+}
+header .io {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background: url(res/io.jpg);
+	background-color:black;
+	background-repeat:no-repeat;
+}
+header .kepler {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background: url(res/kepler1.jpg);
+	background-color:black;
+	background-repeat:no-repeat;
+}
+header .halley {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background: url(res/halley1.jpg);
+	background-color:black;
+	background-repeat:no-repeat;
+}
+section {
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	background: #e8e7e1;}
+
+#video { margin-left: auto; margin-right: auto;}
+
+
+
+#main-content{
+position: relative;
+z-index: 100;
+background: #e8e7e1;
+margin-top: -20px;
+padding: 20px;
+margin-left: 30px;
+width: 860px;
+}
+
+#leftcol{ float: left; margin-right: 30px; width: 557px; }
+
+#breadcrumb{ margin-bottom: 20px; }
+
+a.breadcrumb{ color: #0f5e7e; }
+
+.breadcrumbseparator{ color: #0f5e7e;	font-size: 15px; }
+
+#topnav, #header, #main, #features, #footer{width: 960px;margin: 0 auto;}
+.clearboth{clear: both;}
+
+#main{
+min-height: 605px;
+position: relative;
+background: url('http://planetary.s3.amazonaws.com/assets/images/wrapper/default.jpeg') no-repeat #333333;
+}
